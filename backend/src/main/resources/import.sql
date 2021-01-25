@@ -55,7 +55,20 @@ INSERT INTO tb_product_category (product_id, category_id) VALUES (23, 3);
 INSERT INTO tb_product_category (product_id, category_id) VALUES (24, 3);
 INSERT INTO tb_product_category (product_id, category_id) VALUES (25, 3);
 
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Khauê Lemos', '123.123.123-87', 1250, TIMESTAMP WITH TIME ZONE '2017-12-20T08:00:00Z', 0 );
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Khellermann Machado', '111.111.111-87', 4250, TIMESTAMP WITH TIME ZONE '1985-5-12T08:00:00Z', 0 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Khauê Lemos', '123.123.123-87', 1250, TIMESTAMP WITH TIME ZONE '2017-12-20T08:00:00Z', 1 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Khellermann Machado', '111.111.111-87', 4250, TIMESTAMP WITH TIME ZONE '1985-5-12T08:00:00Z', 1 );
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Janis Machado', '122.122.111-87', 3250, TIMESTAMP WITH TIME ZONE '1986-9-5T08:00:00Z', 0 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Kheronn Khennedy Machado', '001.122.123-87', 4250, TIMESTAMP WITH TIME ZONE '1981-10-3T08:00:00Z', 2 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Khevvellynn Machado', '010.122.123-87', 2250, TIMESTAMP WITH TIME ZONE '1989-10-5T08:00:00Z', 0 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Khauffmann Machado', '100.122.123-87', 8250, TIMESTAMP WITH TIME ZONE '1981-3-25T08:00:00Z', 1 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Sebastiao Benedito Machado', '410.122.123-87', 8250, TIMESTAMP WITH TIME ZONE '1950-5-5T08:00:00Z', 4 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Dulcineia Camilo Machado', '503.122.123-87', 1250, TIMESTAMP WITH TIME ZONE '1960-12-15T08:00:00Z', 4 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Jose Francisco do Carmo', '008.122.123-87', 6250, TIMESTAMP WITH TIME ZONE '1906-12-31T08:00:00Z', 2 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Benedita', '080.122.123-87', 1250, TIMESTAMP WITH TIME ZONE '1910-12-15T08:00:00Z', 2 );
+
+
+
+
+
+
 
