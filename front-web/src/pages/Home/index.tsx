@@ -16,7 +16,7 @@ const Home = () => (
                     Ajudaremos você a encontrar os melhores <br />
                     produtos disponíveis no mercado
                 </p>
-                <Link to="/catalog">
+                <Link to="/products">
                     <ButtonIcon text="Inicia agora sua busca" />
                 </Link>
             </div>
